@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.upper {
+    background-image: url(org-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 352px;
+    margin: 0;
+}
+
+.h2 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.h1 {
+    font-size: 50px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+.first-div {
+    text-shadow: 10px 5px 25px blue;
+}

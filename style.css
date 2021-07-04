@@ -9,7 +9,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 352px;
-    margin: 0;
+    margin-bottom: 100px;
 }
 
 .h2 {
@@ -25,4 +25,55 @@ body {
 
 .first-div {
     text-shadow: 10px 5px 25px blue;
+}
+
+.second-sec {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.profession {
+    align-items: center;
+    padding: 125px 125px;
+}
+
+.p1 {
+    font-size: 25px;
+}
+
+.second-h2 {
+    font-size: 35px;
+}
+
+.img-container {
+    border: 10px solid gray;
+    box-shadow: 10px 0px 0px gray;
+}
+
+.h3 {
+    font-size: 30px;
+    color: green;
+}
+
+.hire-me {
+    background-image: url(black-bg.jpg);
+    display: flex;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border: 10px solid gray;
+    align-items: right;
+    margin-left: 800px;
+}
+
+.h1-hire-me {
+    font-size: 50px;
+    text-align: left;
+    color: white;
+    margin-left: 200px;
 }
